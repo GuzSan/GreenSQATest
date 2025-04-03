@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iK6oLmGoDSw=",
+  "success": true,
+  "projectFilePath": "/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Automation/GSQA.Automation.csproj",
+  "expectedPackageFiles": [
+    "/Users/santiagoguzman/.nuget/packages/selenium.support/4.30.0/selenium.support.4.30.0.nupkg.sha512",
+    "/Users/santiagoguzman/.nuget/packages/selenium.webdriver/4.30.0/selenium.webdriver.4.30.0.nupkg.sha512",
+    "/Users/santiagoguzman/.nuget/packages/selenium.webdriver.chromedriver/135.0.7049.4200/selenium.webdriver.chromedriver.135.0.7049.4200.nupkg.sha512"
+  ],
+  "logs": []
+}

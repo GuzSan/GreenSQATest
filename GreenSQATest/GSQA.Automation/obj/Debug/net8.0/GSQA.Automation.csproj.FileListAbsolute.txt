@@ -1,0 +1,15 @@
+/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Automation/bin/Debug/net8.0/selenium-manager/linux/selenium-manager
+/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Automation/bin/Debug/net8.0/selenium-manager/macos/selenium-manager
+/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Automation/bin/Debug/net8.0/selenium-manager/windows/selenium-manager.exe
+/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Automation/bin/Debug/net8.0/GSQA.Automation.deps.json
+/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Automation/bin/Debug/net8.0/GSQA.Automation.dll
+/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Automation/bin/Debug/net8.0/GSQA.Automation.pdb
+/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Automation/obj/Debug/net8.0/GSQA.Automation.csproj.AssemblyReference.cache
+/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Automation/obj/Debug/net8.0/GSQA.Automation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Automation/obj/Debug/net8.0/GSQA.Automation.AssemblyInfoInputs.cache
+/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Automation/obj/Debug/net8.0/GSQA.Automation.AssemblyInfo.cs
+/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Automation/obj/Debug/net8.0/GSQA.Automation.csproj.CoreCompileInputs.cache
+/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Automation/obj/Debug/net8.0/GSQA.Automation.dll
+/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Automation/obj/Debug/net8.0/refint/GSQA.Automation.dll
+/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Automation/obj/Debug/net8.0/GSQA.Automation.pdb
+/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Automation/obj/Debug/net8.0/ref/GSQA.Automation.dll

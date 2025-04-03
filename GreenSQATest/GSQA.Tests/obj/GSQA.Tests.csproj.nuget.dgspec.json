@@ -1,0 +1,160 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Tests/GSQA.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Automation/GSQA.Automation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Automation/GSQA.Automation.csproj",
+        "projectName": "GSQA.Automation",
+        "projectPath": "/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Automation/GSQA.Automation.csproj",
+        "packagesPath": "/Users/santiagoguzman/.nuget/packages/",
+        "outputPath": "/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Automation/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/santiagoguzman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.30.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.30.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[135.0.7049.4200, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Tests/GSQA.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Tests/GSQA.Tests.csproj",
+        "projectName": "GSQA.Tests",
+        "projectPath": "/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Tests/GSQA.Tests.csproj",
+        "packagesPath": "/Users/santiagoguzman/.nuget/packages/",
+        "outputPath": "/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/santiagoguzman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Automation/GSQA.Automation.csproj": {
+                "projectPath": "/Users/santiagoguzman/Desktop/Pruebas tecnicas/GreenSQATest/GSQA.Automation/GSQA.Automation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
